@@ -22,3 +22,6 @@ tem visualização por parte de usuário.
 C. Módulo do Ajax (ajax.js)
 Onde os dados são enviados e recebidos. (0,25).
 • É o arquivo responsável por receber os dados do index.
+
+Forma de salvar os dados:
+- Arquivo JSON.
